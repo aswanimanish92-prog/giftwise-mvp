@@ -1,0 +1,196 @@
+{
+  "personas": [
+    {
+      "id": "new-parent",
+      "name": "The New Parent",
+      "tagline": "For the sleep-deprived superheroes",
+      "description": "Thoughtful gifts that make those first months a little easier — and a lot more beautiful.",
+      "image": "/images/personas/new-parent.jpg",
+      "productCount": 12
+    },
+    {
+      "id": "work-bestie",
+      "name": "The Work Bestie",
+      "tagline": "For the one who makes meetings bearable",
+      "description": "Desk-worthy delights and treats that say 'I'm grateful you exist in my 9-to-5.'",
+      "image": "/images/personas/work-bestie.jpg",
+      "productCount": 10
+    },
+    {
+      "id": "minimalist",
+      "name": "The Minimalist",
+      "tagline": "For the less-is-more soul",
+      "description": "Twelve objects. Zero noise. Each one handpicked to feel quiet in the hand and loud in memory.",
+      "image": "/images/personas/minimalist.jpg",
+      "productCount": 12
+    },
+    {
+      "id": "techie",
+      "name": "The Techie",
+      "tagline": "For the gadget whisperer",
+      "description": "Smart finds that even the person who has everything doesn't have yet.",
+      "image": "/images/personas/techie.jpg",
+      "productCount": 14
+    },
+    {
+      "id": "partner",
+      "name": "The Partner",
+      "tagline": "For your person",
+      "description": "Romantic without being cheesy. Thoughtful gifts that speak louder than words.",
+      "image": "/images/personas/partner.jpg",
+      "productCount": 15
+    }
+  ],
+  "products": [
+    {
+      "id": "terra-cups",
+      "name": "Terra Cups",
+      "brand": "Studio Pottery",
+      "price": 1850,
+      "currency": "INR",
+      "persona": "minimalist",
+      "image": "/images/products/terra-cups.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE1",
+      "tags": ["handmade", "under-2k"],
+      "description": "Hand-thrown ceramic cups in earthy tones"
+    },
+    {
+      "id": "plain-weave",
+      "name": "Plain Weave Throw",
+      "brand": "Fabindia",
+      "price": 2400,
+      "currency": "INR",
+      "persona": "minimalist",
+      "image": "/images/products/plain-weave.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE2",
+      "tags": ["handmade"],
+      "description": "100% cotton handwoven throw blanket"
+    },
+    {
+      "id": "oba-bowl",
+      "name": "Oba Bowl",
+      "brand": "Nicobar",
+      "price": 1200,
+      "currency": "INR",
+      "persona": "minimalist",
+      "image": "/images/products/oba-bowl.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE3",
+      "tags": ["handmade", "under-2k", "ships-48h"],
+      "description": "Minimalist serving bowl in matte finish"
+    },
+    {
+      "id": "paper-press",
+      "name": "Paper Press Journal",
+      "brand": "Anand Prakash",
+      "price": 950,
+      "currency": "INR",
+      "persona": "minimalist",
+      "image": "/images/products/paper-press.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE4",
+      "tags": ["handmade", "under-2k", "ships-48h"],
+      "description": "Handmade cotton rag paper journal"
+    },
+    {
+      "id": "muslin-swaddle",
+      "name": "Organic Muslin Swaddle Set",
+      "brand": "Greendigo",
+      "price": 1499,
+      "currency": "INR",
+      "persona": "new-parent",
+      "image": "/images/products/muslin-swaddle.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE5",
+      "tags": ["organic", "under-2k", "ships-48h"],
+      "description": "Set of 3 GOTS certified organic muslin swaddles"
+    },
+    {
+      "id": "white-noise",
+      "name": "Dreamegg White Noise Machine",
+      "brand": "Dreamegg",
+      "price": 2999,
+      "currency": "INR",
+      "persona": "new-parent",
+      "image": "/images/products/white-noise.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE6",
+      "tags": ["ships-48h"],
+      "description": "Portable sound machine with 24 soothing sounds"
+    },
+    {
+      "id": "desk-organizer",
+      "name": "Bamboo Desk Organizer",
+      "brand": "Wooden Street",
+      "price": 1299,
+      "currency": "INR",
+      "persona": "work-bestie",
+      "image": "/images/products/desk-organizer.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE7",
+      "tags": ["under-2k", "ships-48h"],
+      "description": "Sustainable bamboo desktop organizer"
+    },
+    {
+      "id": "coffee-subscription",
+      "name": "Blue Tokai Subscription Box",
+      "brand": "Blue Tokai",
+      "price": 1800,
+      "currency": "INR",
+      "persona": "work-bestie",
+      "image": "/images/products/coffee-sub.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE8",
+      "tags": ["under-2k"],
+      "description": "3-month specialty coffee subscription"
+    },
+    {
+      "id": "mechanical-keyboard",
+      "name": "Keychron K2 Wireless",
+      "brand": "Keychron",
+      "price": 7999,
+      "currency": "INR",
+      "persona": "techie",
+      "image": "/images/products/keyboard.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE9",
+      "tags": ["ships-48h"],
+      "description": "75% wireless mechanical keyboard with RGB"
+    },
+    {
+      "id": "smart-bulb",
+      "name": "Philips Hue Starter Kit",
+      "brand": "Philips",
+      "price": 5999,
+      "currency": "INR",
+      "persona": "techie",
+      "image": "/images/products/smart-bulb.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE10",
+      "tags": ["ships-48h"],
+      "description": "Smart LED bulbs with bridge and app control"
+    },
+    {
+      "id": "silk-scarf",
+      "name": "Pashmina Silk Scarf",
+      "brand": "Kashmir Box",
+      "price": 3500,
+      "currency": "INR",
+      "persona": "partner",
+      "image": "/images/products/silk-scarf.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE11",
+      "tags": ["handmade"],
+      "description": "Hand-embroidered pure pashmina scarf"
+    },
+    {
+      "id": "photo-book",
+      "name": "Premium Layflat Photo Book",
+      "brand": "Zoomin",
+      "price": 1999,
+      "currency": "INR",
+      "persona": "partner",
+      "image": "/images/products/photo-book.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0EXAMPLE12",
+      "tags": ["under-2k"],
+      "description": "Custom photo book with premium layflat pages"
+    }
+  ],
+  "filters": [
+    { "id": "all", "label": "All" },
+    { "id": "under-2k", "label": "Under 2k" },
+    { "id": "handmade", "label": "Handmade" },
+    { "id": "ships-48h", "label": "Ships in 48h" }
+  ]
+}
